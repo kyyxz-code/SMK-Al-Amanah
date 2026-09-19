@@ -1,0 +1,6 @@
+{
+  "name": "X TJKT 2 • SMK AL-AMANAH",
+  "description": "Pusat informasi terpadu, kegiatan belajar kejuruan, kolaborasi proyek laboratorium, dan dokumentasi resmi kelas X TJKT 2 SMK Al-Amanah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
